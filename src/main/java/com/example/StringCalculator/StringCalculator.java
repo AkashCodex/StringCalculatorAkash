@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-// String Calculator Class 
+// String Calculator Class
 public class StringCalculator {
 
     public int add(String numbers) {
